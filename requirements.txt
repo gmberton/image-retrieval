@@ -1,0 +1,6 @@
+loguru
+numpy
+pytorch_metric_learning>=2.8.1
+torch
+torchvision
+tqdm
