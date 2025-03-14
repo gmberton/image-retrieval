@@ -1,6 +1,6 @@
 # All You Need to Know About Image Retrieval
 
-This is a repo to easily run experiment with multiple retrieval datasets, losses, miners, etc.
+This is a repo to easily run experiment with 4 retrieval datasets, over 30 losses, multiple miners, etc.
 All the magic happens thanks to the amazing [PyTorch Metric Learning Library](https://kevinmusgrave.github.io/pytorch-metric-learning/), which has all these things implemented.
 
 Just run
