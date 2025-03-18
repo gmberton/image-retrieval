@@ -12,3 +12,5 @@ and it will automatically download the CUB dataset, and run the training with an
 Running `python main.py -h` will show you all the available parameters to choose from.
 
 Despite being quite powerful (allows to run thousands of different experiments), this repo is super simple, with less than 400 lines of code in total across all python files.
+
+[ArXiv](https://arxiv.org/abs/2503.13045) - [Paper on ArXiv](https://arxiv.org/pdf/2503.13045)
